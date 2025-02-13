@@ -11,6 +11,8 @@
 - 💾 <strong>Repositório:</strong> [alura-portfolio](https://github.com/natashalisboa/alura-portfolio) | ✨ <strong>Vercel:</strong> [alura-portfolio](https://alura-portfolio-nine-lilac.vercel.app/index.html)
 <br></br>
 - HTML e CSS: praticando HTML/CSS • curso | certificado
+- 💾 <strong>Repositório:</strong> [alura-html-css](https://github.com/natashalisboa/alura-html-css) | ✨ <strong>Vercel:</strong> [alura-html-css](https://alura-html-css-bice.vercel.app/)
+<br></br>
 - HTML e CSS: responsividade com mobile-first • curso | certificado
 
 ## Flutter
