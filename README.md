@@ -14,6 +14,7 @@
 - 💾 <strong>Repositório:</strong> [alura-html-css](https://github.com/natashalisboa/alura-html-css) | ✨ <strong>Vercel:</strong> [alura-html-css](https://alura-html-css-bice.vercel.app/)
 <br></br>
 - HTML e CSS: responsividade com mobile-first • curso | certificado
+- 💾 <strong>Repositório:</strong> [alura-responsividade](https://github.com/natashalisboa/alura-responsividade) | ✨ <strong>Vercel:</strong> [alura-responsividade](https://#)
 
 ## Flutter
 ### Formação: Desenvolva seu primeiro app com Flutter
